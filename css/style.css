@@ -1,7 +1,7 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: #61122f;
+	background-color: #61122f; 
 }
 
 /*  ***HEADER */
@@ -13,8 +13,8 @@ body {
 
 /* LOGO IMAGE */
 #logo-img {
-	background: url("..images/logo1.png") no-repeat;
-	width: 150px;
-	height: 150px;
-	margin: 10px 15px 10px 0px;
-}
+	background: url('../images/logo.jpg') no-repeat;
+	height: 100px;
+	width: 109px;
+	margin: 10px 0px 10px 0px;
+	}
