@@ -16,5 +16,35 @@ body {
 	background: url('../images/logo1.png') no-repeat;
 	height: 100px;
 	width: 109px;
-	margin: 10px 0px 10px 0px;
+	margin: 10px 15px 10px 0px;
 	}
+
+.navbar-brand {padding-top: 25px;}
+
+.navbar-brand h1{
+	color: green;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75; 
+}
+
+.navbar-brand a:hover , .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+.navbar-brand p img{
+	height: 20px;
+	width: 20px;
+}
+
+.navbar-brand p{
+	color: black;
+	text-transform: uppercase;
+	font-size: 0.7em;
+	margin-top: 15px;
+}
+
+.navbar-brand p span{
+	vertical-align: middle;
+}
